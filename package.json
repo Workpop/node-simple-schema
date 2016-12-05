@@ -13,6 +13,7 @@
   },
   "homepage": "https://github.com/aldeed/node-simple-schema",
   "files": [
+    "lib",
     "dist",
     "LICENSE",
     "README.md"
